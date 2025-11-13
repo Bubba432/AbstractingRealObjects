@@ -3,7 +3,7 @@
  * This is the secondary class that will be used as an instance variable
  * in the main Swing class.
  * 
- * @author Your Name
+ * @author David H.
  * @collaborator ChatGPT
  * @version 1.0
  */
