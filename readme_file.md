@@ -3,11 +3,6 @@
 ## 📋 Project Description
 This project models a real-world playground swing using Object-Oriented Programming principles in Java. The program demonstrates abstraction by creating classes that represent a swing and its components.
 
-## 🎯 Learning Objectives Achieved
-- **LO10**: Implemented overloaded constructors (default and parameterized)
-- **LO11**: Created methods with parameters and return values
-- **LO12**: Designed and implemented custom classes with proper encapsulation
-
 ## 📁 Project Structure
 The project consists of three Java classes:
 
@@ -104,42 +99,6 @@ The project consists of three Java classes:
 │ + main(String[])                 │
 └──────────────────────────────────┘
 ```
-
-## 🚀 How to Run
-1. Compile all Java files:
-   ```bash
-   javac Seat.java Swing.java SwingTester.java
-   ```
-
-2. Run the tester class:
-   ```bash
-   java SwingTester
-   ```
-
-## 💡 Sample Output
-```
-=== Playground Swing Testing Program ===
-
-Creating Swing 1 (Default Constructor):
-Swing [Color: blue, Chain Length: 6.0 ft, Seat made of rubber, Max Weight: 150 lbs, Status: Available, Uses Today: 0]
-
-Creating Swing 2 (Custom Constructor):
-Swing [Color: red, Chain Length: 7.5 ft, Seat made of plastic, Max Weight: 200 lbs, Status: Available, Uses Today: 0]
-
---- Testing Swing 1 ---
-Enjoy your swing! This is use #1 today.
-
---- Safety Inspection Report ---
-Chain Length: 6.0 feet - PASS
-Seat Material: rubber
-Weight Capacity: 150 lbs
-Current Status: In Use
-Total Uses Today: 1
-Overall Status: SAFE FOR USE
--------------------------------
-...
-```
-
 ## 📝 Features Demonstrated
 - **Encapsulation**: All instance variables are private with public getters/setters
 - **Object Composition**: The Swing class contains a Seat object
@@ -149,10 +108,7 @@ Overall Status: SAFE FOR USE
 - **State Management**: Tracking occupancy and usage count
 
 ## 👨‍💻 Author
-[Your Name]
+David H.
 
 ## 📅 Date
 November 13, 2025
-
-## 📚 Course
-[Your Course Name/Number]
